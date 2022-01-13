@@ -14,7 +14,7 @@ As always, any feedback, queries or concerns regarding this notebook are highly 
 
 ### Abstract
 
-The rise of social media has transformed our lives in an unprecedented way.
+*The rise of social media has transformed our lives in an unprecedented way.
 Marketers today have embraced this phenomenon as a key marketing channel to
 communicate with customers and spread their message across the world to a
 massive potential audience. The sport of Cricket is no different. Social media has
@@ -37,7 +37,7 @@ results from this thesis have important implications for marketers designing and
 executing social media marketing strategies for cricket leagues to enhance user
 engagement. These results are especially relevant for marketers of smaller, lesser-
 known leagues, who may not have the budget or the resources available to analyse
-and derive insights from social media data effectively.
+and derive insights from social media data effectively.*
 
 
 
